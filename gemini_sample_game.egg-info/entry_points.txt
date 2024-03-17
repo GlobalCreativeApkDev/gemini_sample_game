@@ -1,2 +1,0 @@
-[console_scripts]
-gemini_sample_game = gemini_sample_game.gemini_sample_game:main
