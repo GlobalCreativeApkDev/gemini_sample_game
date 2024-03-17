@@ -8,10 +8,10 @@ def readme():
 
 
 setup(
-    name='gemini_sample_name',
+    name='gemini_sample_game',
     version='1',
-    packages=['gemini_sample_name'],
-    url='https://github.com/GlobalCreativeApkDev/gemini_sample_name',
+    packages=['gemini_sample_game'],
+    url='https://github.com/GlobalCreativeApkDev/gemini_sample_game',
     license='MIT',
     author='GlobalCreativeApkDev',
     author_email='globalcreativeapkdev2022@gmail.com',
