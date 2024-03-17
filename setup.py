@@ -9,7 +9,7 @@ def readme():
 
 setup(
     name='gemini_sample_game',
-    version='1',
+    version='1.1',
     packages=['gemini_sample_game'],
     url='https://github.com/GlobalCreativeApkDev/gemini_sample_game',
     license='MIT',
